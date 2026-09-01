@@ -38,13 +38,17 @@ I am currently building my expertise in **software engineering, databases, web t
 
 `C` · `C++` · `Python`
 
-### Database
+### Web Development
 
-`SQL` · `DBMS` · `MySQL`
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `React` · `Node.js` · `Express.js` · `EJS`
 
-### Web Technologies
+### APIs & Development Tools
 
-`HTML` · `CSS` · `JavaScript`
+`REST APIs` · `Git` · `GitHub` · `NPM` · `Bash / Command Line`
+
+### Databases
+
+`SQL` · `PostgreSQL` · `MySQL` · `DBMS`
 
 ### Computer Science
 
@@ -54,25 +58,82 @@ I am currently building my expertise in **software engineering, databases, web t
 
 `Information System Analysis & Design` · `Principles of Management` · `Organizational Behavior` · `Business Communication` · `E-Commerce`
 
-## Full-Stack Development
+## Full-Stack Web Development
 
-I have completed **The Complete Full-Stack Web Development Bootcamp**, a **62-hour** full-stack development program instructed by **Dr. Angela Yu**.
+### The Complete Full-Stack Web Development Bootcamp
 
-**Certificate Verification:** [Verify Certificate](https://ude.my/UC-abcc68d3-79c7-4a98-ae80-551420c93457)  
+I completed **The Complete Full-Stack Web Development Bootcamp**, instructed by **Dr. Angela Yu, Developer and Lead Instructor**.
+
+The course consists of **62 total hours**, **374 lectures**, and covers full-stack web development from frontend fundamentals through backend development, databases, authentication, React, deployment, and Web3/DApp development.
+
+### Curriculum Covered
+
+**Frontend Development**
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Bootstrap 5
+- JavaScript ES6
+- DOM Manipulation
+- jQuery
+- Responsive Web Design
+
+**Backend Development**
+
+- Node.js
+- NPM
+- Express.js
+- EJS
+- REST APIs
+- Backend Web Development
+- Authentication
+
+**Databases**
+
+- SQL
+- PostgreSQL
+- Database-driven web applications
+
+**Modern Web Development**
+
+- React.js
+- React Hooks
+- Git & GitHub
+- Version Control
+- Deployment with GitHub Pages
+
+**Web3 & DApps**
+
+- Web3 Development
+- Blockchain Technology
+- Decentralized Applications (DApps)
+- Token Contract Development
+- NFT Minting, Buying & Selling Logic
+
+### Certificate Verification
+
+**Certificate:** The Complete Full-Stack Web Development Bootcamp  
+**Issued to:** Saurav Pandey  
+**Instructor:** Dr. Angela Yu  
+**Duration:** 62 hours  
+**Completion Date:** August 30, 2026  
 **Certificate No.:** `UC-abcc68d3-79c7-4a98-ae80-551420c93457`  
-**Reference Number:** `0004`  
-**Completed:** August 30, 2026
+**Reference Number:** `0004`
 
-The training complements my academic foundation with practical exposure to modern web development and supports my broader focus on software development.
+[**Verify Certificate**](https://ude.my/UC-abcc68d3-79c7-4a98-ae80-551420c93457)
 
 ## Current Focus
 
-- Strengthening software engineering fundamentals
-- Full-stack web development
-- Data structures and problem solving
-- Database management and SQL
-- Operating systems and computer networks
-- Software engineering practices
+- Software engineering and full-stack web development
+- Programming and problem solving
+- Data structures and computer science fundamentals
+- Database design and SQL
+- Backend and API development
+- Modern frontend development with React
+- Version control and software development practices
+- Web3 and decentralized application concepts
 - Information systems and business technology
 - Connecting technical implementation with project and business requirements
 
@@ -82,9 +143,9 @@ I am interested in opportunities where **technical capability and business under
 
 - Software Development
 - Full-Stack Development
-- IT & Technology Roles
 - Software Engineering
-- Information Systems
+- IT & Information Systems
+- Backend / API Development
 - Technical Project Coordination
 - Technology Management
 - Business & IT Management
