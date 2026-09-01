@@ -58,6 +58,11 @@ I am currently building my expertise in **software engineering, databases, web t
 
 I have completed **The Complete Full-Stack Web Development Bootcamp**, a **62-hour** full-stack development program instructed by **Dr. Angela Yu**.
 
+**Certificate Verification:** [Verify Certificate](https://ude.my/UC-abcc68d3-79c7-4a98-ae80-551420c93457)  
+**Certificate No.:** `UC-abcc68d3-79c7-4a98-ae80-551420c93457`  
+**Reference Number:** `0004`  
+**Completed:** August 30, 2026
+
 The training complements my academic foundation with practical exposure to modern web development and supports my broader focus on software development.
 
 ## Current Focus
